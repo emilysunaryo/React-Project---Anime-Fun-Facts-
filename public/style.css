@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(90.41deg,  #DDC3A5 10%, #A7BEAE);
+    color: #ffffff;
+    height: 50px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+
+.select-bar{
+   display: flex;
+    justify-content: center ;
+}
+
+.second-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
